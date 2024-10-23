@@ -1,0 +1,13 @@
+.app {
+  height: 100vh;
+}
+.app.dark {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.light {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
